@@ -202,6 +202,10 @@ h6 {
     max-width: 385px;
   }
 
+  .nav-items {
+    display: fixed;
+  }
+
   .section {
     margin-top: 45px;
   }
@@ -221,5 +225,9 @@ h6 {
 
   .paragraph {
     font-size: 12px;
+  }
+
+  .drone-img {
+    margin-top: 5px;
   }
 }
